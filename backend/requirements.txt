@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+pillow
+pdf2image
+pandas
+
+together 
+google-generativeai 
+
+openpyxl
+xlrd
+
+python-multipart
