@@ -122,13 +122,13 @@ The core component responsible for processing invoice files in various formats:
 ```
 src/
 ├── components/
-│   ├── App.js             # Main application component
 │   ├── InvoiceTab.js      # Invoice details view
 │   ├── ProductsTab.js     # Product management
 │   └── CustomerTab.js     # Customer information
 ├── store/
 │   ├── actions.js         # Redux actions
 │   └── reducer.js         # State management logic
+├── App.js                 # Main application component
 ```
 
 ## Data Flow
