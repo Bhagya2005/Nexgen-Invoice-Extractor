@@ -1,4 +1,4 @@
-# Automated Invoice Extraction
+# Nexgen Invoice Extractor - Automated Invoice Extraction
 
 This project is an Invoice Management System that allows users to upload and process invoices in various formats (PDF, images, Excel). The system extracts structured data from the invoices and displays it in a user-friendly interface. The project consists of a frontend built with React and a backend built with FastAPI.
 
@@ -58,10 +58,13 @@ npm install
 
 ## Running the Application
 
+
 ### Start Backend Server
 ```bash
 cd backend
 source venv/bin/activate  # If not already activated
+venv\Scripts\activate
+
 uvicorn main:app --reload
 ```
 The backend server will start at `http://localhost:8000`
