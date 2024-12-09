@@ -2,6 +2,11 @@
 
 This project is an Invoice Management System that allows users to upload and process invoices in various formats (PDF, images, Excel). The system extracts structured data from the invoices and displays it in a user-friendly interface. The project consists of a frontend built with React and a backend built with FastAPI.
 
+![Image Description]([img/image.png](https://github.com/Bhagya2005/Nexgen-Invoice-Extractor/blob/main/Screenshot%20(1376).png))
+![Image Description]([img/image.png](https://github.com/Bhagya2005/Nexgen-Invoice-Extractor/blob/main/Screenshot%20(1377).png))
+![Image Description]([img/image.png](https://github.com/Bhagya2005/Nexgen-Invoice-Extractor/blob/main/Screenshot%20(1378).png))
+![Image Description]([img/image.png](https://github.com/Bhagya2005/Nexgen-Invoice-Extractor/blob/main/Screenshot%20(1379).png))
+![Image Description]([img/image.png](https://github.com/Bhagya2005/Nexgen-Invoice-Extractor/blob/main/Screenshot%20(1380).png))
 
 
 ## Prerequisites
